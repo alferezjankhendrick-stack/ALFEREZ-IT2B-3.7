@@ -29,7 +29,6 @@ def main():
 
     sorted_array = bubble_sort(unsorted_array)
 
-    # Display results
     print("Full Name:      ", full_name)
     print("Unsorted Array: ", unsorted_array)
     print("Sorted Array:   ", sorted_array)
